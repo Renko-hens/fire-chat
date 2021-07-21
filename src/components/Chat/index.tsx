@@ -1,4 +1,6 @@
-const Chat = () => {
+import { ReactElement } from "react";
+
+const Chat = (): ReactElement => {
   return (
     <div>
       Chat
