@@ -1,5 +1,5 @@
 # fire-chat
-This simple project, how look like a "Telegram" or general chat
+This simple project will look like "Telegram" or general chat
 
 # Getting Started with Create React App
 
